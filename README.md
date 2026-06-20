@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yatheesh Nagella</h1>
-<h3 align="center">Full Stack Software Engineer | Financial Services & AI</h3>
-<h4 align="center">Building scalable financial applications and AI-powered solutions | AWS Certified Solutions Architect</h4>
+<h1 align="center">Hi 👋, I'm Yatheesh </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yatheesh-nagella&label=Profile%20views&color=0e75b6&style=flat" alt="yatheesh-nagella" />
 </p>
 
----
 
+<!-- 
 ## 🚀 About Me
 
 - 💼 **Full Stack Software Engineer** specializing in **banking, fintech, and insurance technology**
@@ -69,7 +67,7 @@
 ### Financial Technology
 ![Plaid](https://img.shields.io/badge/-Plaid%20API-000000?style=flat&logo=plaid&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
-
+-->
 ---
 
 ## 🎯 Featured Projects
@@ -120,7 +118,7 @@
 [💻 Source Code](https://github.com/Yatheesh-Nagella/aws-bootcamp-cruddur-2023)
 
 ---
-
+<!-- 
 ## 💼 Professional Experience
 
 ### 🏦 **Full Stack Software Engineer** @ Truist | *Aug 2021 - Sep 2022*
@@ -167,8 +165,7 @@ Developing educational content platform and marketing solutions
 - Built Power BI dashboards for program analytics and enrollment tracking
 
 **Tech:** JavaScript, React, HTML/CSS, Microsoft 365, Power Automate, Power BI
-
----
+-->
 
 ## 📊 GitHub Stats
 
@@ -196,7 +193,7 @@ Developing educational content platform and marketing solutions
 -->
 
 ---
-
+<!--
 ## 🏆 Certifications & Achievements
 
 - 🥇 **AWS Certified Solutions Architect - Associate** (February 2023)
@@ -205,8 +202,8 @@ Developing educational content platform and marketing solutions
 - 🤖 **Implemented AI features** using AWS Bedrock reducing time-to-insight by 70%
 - 📄 **Published Research**: "Secure Data Encryption for ATM Transactions" - IRJET (2022)
 - 🎓 **Master's in Computer Science** - GPA 3.78/4.0 (Expected May 2025)
+-->
 
----
 
 ## 💡 What I'm Working On
 
@@ -216,7 +213,7 @@ Developing educational content platform and marketing solutions
 - 🎯 **Open Source**: Contributing to fintech and AI/ML projects
 
 ---
-
+<!--
 ## 🎓 Education & Background
 
 **Master of Science in Computer Science**  
@@ -225,8 +222,8 @@ University of Central Oklahoma | GPA: 3.78/4.0 | Aug 2023 - May 2025
 
 **Bachelor of Technology in Computer Engineering**  
 Vellore Institute of Technology | 2019 - 2023
+-->
 
----
 
 ## 🤝 Connect With Me
 
@@ -264,7 +261,7 @@ Vellore Institute of Technology | 2019 - 2023
 </p>
 
 ---
-
+<!--
 ### 🎯 Open to Opportunities
 
 I'm actively seeking **Full Stack Software Engineer** roles in:
@@ -279,3 +276,4 @@ I'm actively seeking **Full Stack Software Engineer** roles in:
 
 📧 **Contact:** yatheeshnagella17@gmail.com  
 🔗 **Portfolio:** [yatheeshnagella.com](https://yatheeshnagella.com)
+-->
